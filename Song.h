@@ -1,3 +1,11 @@
+/*****************************************************
+ *  File Name: Playlist.cpp
+ *  Group Number:7
+ *  Group Member Names:Andia Dark
+ *  Date last edited: 
+ *  Purpose: 
+ ****************************************************/
+
 #ifndef SONG_H
 #define SONG_H
 
@@ -33,7 +41,9 @@ class Song
 
 		// set the song
 		void set(std::string title, std::string artist, std::string album, int length, int year);
-
+        friend class Playlist;
+        std::string getTitle();
+       // void get();//print contents of song file
         
 private:
 
@@ -46,3 +56,4 @@ private:
 };
 
 #endif
+
