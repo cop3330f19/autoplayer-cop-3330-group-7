@@ -1,10 +1,4 @@
-/*****************************************************
- *  File Name: Playlist.cpp
- *  Group Number:7
- *  Group Member Names:Andia Dark
- *  Date last edited: 
- *  Purpose: 
- ****************************************************/
+
 
 #include<iostream>
 #include <string>
