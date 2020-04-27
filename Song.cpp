@@ -1,14 +1,4 @@
-// Song Class
-// You must write the implementation of the Song.h file.
-// Two songs are equal if they have the same title and artist.
 
-/*****************************************************
- *  File Name: Playlist.cpp
- *  Group Number:7
- *  Group Member Names:Andia Dark
- *  Date last edited: 
- *  Purpose: 
- ****************************************************/
 
 #include <iostream>
 #include "Song.h"
